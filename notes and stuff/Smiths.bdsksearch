@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>class</key>
+	<string>BDSKSearchGroup</string>
+	<key>database</key>
+	<string>GOL01</string>
+	<key>host</key>
+	<string>library.gold.ac.uk</string>
+	<key>name</key>
+	<string>Smiths</string>
+	<key>options</key>
+	<dict>
+		<key>recordSyntax</key>
+		<string>US MARC</string>
+		<key>resultEncoding</key>
+		<string>utf-8</string>
+	</dict>
+	<key>port</key>
+	<string>9992</string>
+	<key>type</key>
+	<string>zoom</string>
+</dict>
+</plist>

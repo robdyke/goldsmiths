@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: section1.aux
+The style file: dcu.bst
+Database file #1: /home/doitsysadmin/Documents/GoldsmithsCourses/bibliography/globalbib.bib
+Warning--can't use both author and editor fields in Nustad:2003
+You've used 17 entries,
+            2921 wiz_defined-function locations,
+            748 strings with 6826 characters,
+and the built_in function-call counts, 38887 in all, are:
+= -- 6044
+> -- 488
+< -- 0
++ -- 2666
+- -- 143
+* -- 2995
+:= -- 8431
+add.period$ -- 34
+call.type$ -- 17
+change.case$ -- 226
+chr.to.int$ -- 17
+cite$ -- 18
+duplicate$ -- 272
+empty$ -- 527
+format.name$ -- 189
+if$ -- 6918
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 29
+newline$ -- 72
+num.names$ -- 174
+pop$ -- 106
+preamble$ -- 1
+purify$ -- 255
+quote$ -- 0
+skip$ -- 194
+stack$ -- 0
+substring$ -- 8143
+swap$ -- 35
+text.length$ -- 238
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 1
+while$ -- 365
+width$ -- 0
+write$ -- 240
+(There was 1 warning)

@@ -1,0 +1,18 @@
+Get the harvard bibstyle .zip from CTAN
+
+edit the Makefile
+	prefix=/usr/share
+	texlib=$(prefix)/texmf
+	bstdir=$(texlib)/bibtex/bst/harvard
+	stydir=$(texlib)/tex/latex/local
+	docdir=$(texlib)/bibtex/doc/harvard
+
+delete the references to the htmldir lines
+
+sudo make install
+sudo texhash
+
+cd ~/Path/To/Document
+latex -interaction=nonstopmode exampleessay.tex		generating the .aux file
+bibtex exampleessay.aux					generating the .bib file
+pdflatex -interaction=nonstopmode exampleessay.tex	generating the .pdf file

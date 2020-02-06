@@ -1,0 +1,38 @@
+<map version="0.8.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1166206994371" ID="Freemind_Link_1061230524" MODIFIED="1166207001297" TEXT="open source">
+<node CREATED="1166207001645" ID="_" MODIFIED="1166207003435" POSITION="right" TEXT="property">
+<node CREATED="1166207003744" ID="Freemind_Link_816983401" MODIFIED="1166207006724" TEXT="ownership"/>
+<node CREATED="1166207054487" ID="Freemind_Link_623188482" MODIFIED="1166207059866" TEXT="recognition"/>
+</node>
+<node CREATED="1166207011261" ID="Freemind_Link_761580553" MODIFIED="1166207012962" POSITION="left" TEXT="licenses">
+<node CREATED="1166207050588" ID="Freemind_Link_1743377484" MODIFIED="1166207052119" TEXT="rights"/>
+<node CREATED="1166207054487" ID="Freemind_Link_1845259895" MODIFIED="1166207059866" TEXT="recognition"/>
+</node>
+<node CREATED="1166207019938" ID="Freemind_Link_358770617" MODIFIED="1166207072032" POSITION="right" TEXT="standards">
+<node CREATED="1166207072342" ID="Freemind_Link_945534025" MODIFIED="1166207077610" TEXT="inter-operability"/>
+<node CREATED="1166207082538" ID="Freemind_Link_1514988580" MODIFIED="1166207085588" TEXT="open source"/>
+<node CREATED="1166207088766" ID="Freemind_Link_1826117824" MODIFIED="1166207107090" TEXT="peer">
+<node CREATED="1166207107410" ID="Freemind_Link_509148928" MODIFIED="1166207108781" TEXT="review"/>
+<node CREATED="1166207109458" ID="Freemind_Link_538408458" MODIFIED="1166207114048" TEXT="recognition"/>
+</node>
+</node>
+<node CREATED="1166207141897" ID="Freemind_Link_207650750" MODIFIED="1166207153125" POSITION="left" TEXT="parallel ideas">
+<node CREATED="1166207153414" ID="Freemind_Link_1192560349" MODIFIED="1166207158063" TEXT="academia">
+<node CREATED="1166207158472" ID="Freemind_Link_54503501" MODIFIED="1166207160373" TEXT="peer review"/>
+<node CREATED="1166207161161" ID="Freemind_Link_1107414523" MODIFIED="1166207169240" TEXT="citations"/>
+</node>
+<node CREATED="1166207171737" ID="Freemind_Link_1880819797" MODIFIED="1166207184665" TEXT="life sciences">
+<node CREATED="1166207184952" ID="Freemind_Link_1990889623" MODIFIED="1166207188213" TEXT="drugs"/>
+<node CREATED="1166207189002" ID="Freemind_Link_1907953300" MODIFIED="1166207190813" TEXT="GM food"/>
+</node>
+</node>
+<node CREATED="1166207194430" ID="Freemind_Link_869643266" MODIFIED="1166207198200" POSITION="right" TEXT="rights">
+<node CREATED="1166207198459" ID="Freemind_Link_191592549" MODIFIED="1166207204799" TEXT="not to know how something works"/>
+<node CREATED="1166207206346" ID="Freemind_Link_183064494" MODIFIED="1166207221123" TEXT="to know how something works"/>
+</node>
+<node CREATED="1166207225470" ID="Freemind_Link_1636887069" MODIFIED="1166207230989" POSITION="left" TEXT="progress of humanity">
+<node CREATED="1166207232367" ID="Freemind_Link_579855094" MODIFIED="1166207251462" TEXT="cart with square wheels loaded with round wheel"/>
+</node>
+</node>
+</map>
