@@ -1,0 +1,45 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: introduction.aux
+The style file: dcu.bst
+Database file #1: /home/doitsysadmin/Documents/GoldsmithsCourses/bibliography/globalbib.bib
+You've used 17 entries,
+            2921 wiz_defined-function locations,
+            748 strings with 6994 characters,
+and the built_in function-call counts, 35663 in all, are:
+= -- 5478
+> -- 472
+< -- 1
++ -- 2405
+- -- 138
+* -- 2693
+:= -- 7868
+add.period$ -- 34
+call.type$ -- 17
+change.case$ -- 227
+chr.to.int$ -- 17
+cite$ -- 17
+duplicate$ -- 265
+empty$ -- 503
+format.name$ -- 180
+if$ -- 6303
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 29
+newline$ -- 75
+num.names$ -- 176
+pop$ -- 114
+preamble$ -- 1
+purify$ -- 255
+quote$ -- 0
+skip$ -- 176
+stack$ -- 0
+substring$ -- 7300
+swap$ -- 25
+text.length$ -- 239
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 0
+while$ -- 362
+width$ -- 0
+write$ -- 244

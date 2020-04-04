@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: section2.aux
+The style file: dcu.bst
+Database file #1: /home/doitsysadmin/Documents/GoldsmithsCourses/bibliography/globalbib.bib
+Warning--there's a number but no volume in Stallabrass:2002kx
+Warning--can't use both author and editor fields in weber:1958
+You've used 16 entries,
+            2921 wiz_defined-function locations,
+            734 strings with 6667 characters,
+and the built_in function-call counts, 34807 in all, are:
+= -- 5418
+> -- 430
+< -- 0
++ -- 2395
+- -- 126
+* -- 2664
+:= -- 7643
+add.period$ -- 33
+call.type$ -- 16
+change.case$ -- 214
+chr.to.int$ -- 16
+cite$ -- 18
+duplicate$ -- 222
+empty$ -- 432
+format.name$ -- 166
+if$ -- 6133
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 74
+num.names$ -- 160
+pop$ -- 97
+preamble$ -- 1
+purify$ -- 240
+quote$ -- 0
+skip$ -- 154
+stack$ -- 0
+substring$ -- 7280
+swap$ -- 15
+text.length$ -- 224
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 42
+warning$ -- 2
+while$ -- 337
+width$ -- 0
+write$ -- 225
+(There were 2 warnings)
